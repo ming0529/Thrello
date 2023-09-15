@@ -1,4 +1,4 @@
 ## 12조 - Thrello
 # Adam Lee
-# chanho
+# Min Jeong
 # Eric Kim
